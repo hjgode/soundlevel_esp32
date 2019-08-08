@@ -12,7 +12,7 @@ splDaten sDaten={ false, 0.0, true, true };
 
 HardwareSerial mySerial(2);
 
-const char* ssid = "HORST1";
+const char* ssid = "Horst1";
 const char* password = "1234567890123";
 
 WiFiServer telnetserver(23); 
